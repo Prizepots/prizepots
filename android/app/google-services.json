@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586439261068",
+    "firebase_url": "https://prizepots-acaa4.firebaseio.com",
+    "project_id": "prizepots-acaa4",
+    "storage_bucket": "prizepots-acaa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586439261068:android:0003ea1b5f27e13e2634a9",
+        "android_client_info": {
+          "package_name": "com.wehberg.prizepots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586439261068-7mvu3bo2e8urdqtn127dsiehc18il4ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7evmM_A2yT50vaBURGHM3i1ZDWUgiMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586439261068-7mvu3bo2e8urdqtn127dsiehc18il4ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
